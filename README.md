@@ -3,7 +3,7 @@
 <!--
 **RK41099/RK41099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://raw.githubusercontent.com/RK41099/RK41099/master/Screenshot%20(18).png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://raw.githubusercontent.com/RK41099/RK41099/master/gh-header-image-cropped.png" alt="banner">
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
