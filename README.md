@@ -12,6 +12,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://raw.githubusercontent.com/RK41099/RK41099/master/gh-header-image-cropped.png" alt="banner">
-
-<img src="https://raw.githubusercontent.com/RK41099/RK41099/master/banner.png" alt="banner">
 <img src="https://github-readme-stats.vercel.app/api?username=RK41099&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src="https://raw.githubusercontent.com/RK41099/RK41099/master/banner.png" alt="banner">
