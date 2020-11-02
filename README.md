@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://raw.githubusercontent.com/RK41099/RK41099/master/gh-header-image-cropped.png" alt="banner">
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RK41099&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RK41099&layout=compact&theme=radical&langs_count=10" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=RK41099&show_icons=true&include_all_commits=true&theme=radical" alt="Raj's github stats" />
 </p>
 
