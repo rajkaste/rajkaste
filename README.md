@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 -->
 <img src="https://raw.githubusercontent.com/rajkaste/rajkaste/master/gh-header-image-cropped.png" alt="banner">
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkaste&layout=compact&theme=radical&langs_count=10" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajkaste&show_icons=true&include_all_commits=true&theme=radical" alt="Raj's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkaste&layout=compact&theme=great-gatsby&langs_count=10" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajkaste&show_icons=true&include_all_commits=true&theme=great-gatsby" alt="Raj's github stats" />
 </p>
 
 
