@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 </p>
 
 <h2>🏷️ Holopin Badges</h2>
-<p><a href="https://holopin.io/@rajkaste"><img src="https://holopin.me/rajkaste" alt="@Raj Kaste's Holopin board"></a></p>
+<img align="center" src="https://holopin.me/@rajkaste" alt="Raj's github stats" />
+
